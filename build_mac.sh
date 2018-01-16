@@ -1,3 +1,3 @@
-rm -rf /Applications/newyorkc-qt.app
+rm -rf /Applications/pbk-qt.app
 make -f Makefile
-cp -Rp newyorkc-qt.app /Applications/
+cp -Rp pbk-qt.app /Applications/
