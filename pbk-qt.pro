@@ -269,6 +269,7 @@ SOURCES += src/qt/test/test_main.cpp \
 HEADERS += src/qt/test/uritests.h
 DEPENDPATH += src/qt/test
 QT += testlib
+QT += widgets
 TARGET = bitcoin-qt_test
 DEFINES += BITCOIN_QT_TEST
 }
